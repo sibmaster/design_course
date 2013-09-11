@@ -9,6 +9,7 @@
 #define IFUNCTION_H_
 class IFunction{
 	public:
+		virtual void sf()=0;
 };
 
 
