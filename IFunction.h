@@ -8,7 +8,7 @@
 #ifndef IFUNCTION_H_
 #define IFUNCTION_H_
 class IFunction{
-
+	public:
 };
 
 
